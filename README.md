@@ -16,7 +16,7 @@ This project performs exploratory data analysis (EDA) and applies machine learni
 
 ## Folder Structure
 
-Predicting-AQI-using-AML-and-DA/
+Predicting-AQI-using-AML-and-DA
 ├── aqi_analysis.py # Main Python script
 ├── AQI and Lat Long of Countries complete.csv # Input dataset
 ├── README.md # Project documentation
